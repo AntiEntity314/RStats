@@ -1,4 +1,4 @@
 # RStats
-Race statistics 
+Sports statistics 
 
-Alternate website: https://statf.neocities.org/
+Alternate website: https://rstats.neocities.org/
